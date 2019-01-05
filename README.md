@@ -6,3 +6,4 @@ The objective of this tutorial is to help the students becoming more familiarize
 
 ### Demo
 
+![alt text](https://github.com/Mintri1199/Sushi_Neko/blob/master/SushiNeko.gif)
